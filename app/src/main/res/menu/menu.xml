@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mitemcolor"
+        android:title="Color fondo">
+        <menu>
+            <item
+                android:id="@+id/mitemrojo"
+                android:title="Rojo" />
+            <item
+                android:id="@+id/mitemverde"
+                android:title="Verde" />
+            <item
+                android:id="@+id/mitemazul"
+                android:title="Azul" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/mitemsalir"
+        android:title="Salir" />
+
+</menu>
